@@ -1,10 +1,10 @@
-Jomapp - Real-Time Chat Application
+Real-Time Chat Application
 Welcome to Jomapp, a real-time chat application built with Django, Django Channels, and WebSockets. This project enables users to join chat rooms and communicate with each other in real-time. The application uses WebSockets for efficient, real-time message exchange, and supports basic functionalities like room creation, message sending, and authentication.
 
 Features
 Real-time chat functionality using WebSockets and Django Channels.
 Create and join multiple chat rooms.
-Message history displayed for each chat room.
+Message history is displayed for each chat room.
 User authentication to send messages.
 Responsive design to support various screen sizes and devices.
 Real-time notifications for incoming messages.
@@ -21,7 +21,7 @@ First, clone the project repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/jomapp.git
+git clone https://github.com/Jomwanje/jomapp.git
 Set up a virtual environment
 It's recommended to use a virtual environment to manage your project's dependencies:
 
